@@ -135,3 +135,4 @@ root.grid_columnconfigure(1, weight=1)
 root.bind("<Configure>", on_resize)
 
 root.mainloop()
+# Program ends here.
